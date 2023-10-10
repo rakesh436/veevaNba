@@ -17,6 +17,7 @@ public class BaseSetup {
         return this.driver;
     }
 
+    //default browser chrome
     @BeforeClass
     @Parameters("browser")
     public void initDriver(@Optional("chrome") String browser){

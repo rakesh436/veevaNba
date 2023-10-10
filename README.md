@@ -4,6 +4,7 @@
 **Getting Started**
 - Install maven
 - Install Java version 20
+- git clone `https://github.com/rakesh436/veevaNba.git`
 - `run` : mvn clean install
 
 **Defining the browser**
